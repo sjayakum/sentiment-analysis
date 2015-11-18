@@ -1,0 +1,4 @@
+data source cost
+data storage cost -> initial and final
+data processing/visualization software cost
+Server cost
