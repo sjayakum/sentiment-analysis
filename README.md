@@ -4,14 +4,9 @@
 Project Phase - 1 [PP1]
 ----------------------
 
-### Project Approval
+###[Project Approval Presentation](https://github.com/suraj-jayakumar/capstoneproject/blob/master/PP1%20Project%20Approval/Project%20Review%20Presentation.pptx)
 
-[Approval Presentation](https://github.com/suraj-jayakumar/capstoneproject/blob/master/PP1%20Project%20Approval/Project%20Review%20Presentation.pptx)
-
-### Project Review [Internal & External]
-
-[Presentation](https://github.com/suraj-jayakumar/capstoneproject/blob/master/PP1%20Project%20Approval/Project%20Review%20Presentation.pptx)
-
+###[Project Review Presentation](https://github.com/suraj-jayakumar/capstoneproject/blob/master/PP1%20Project%20Approval/Project%20Review%20Presentation.pptx)
 
 ### [Literature Survey](https://github.com/suraj-jayakumar/capstoneproject/tree/master/PP1%20Literature%20Survey%20Review)
 
