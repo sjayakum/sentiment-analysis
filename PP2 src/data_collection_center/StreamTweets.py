@@ -5,10 +5,10 @@ import tweepy  # https://github.com/tweepy/tweepy
 import csv
 
 # Twitter API credentials
-consumer_key = "b6JCMorNFh6FcUSe9sUvkrdfU"
-consumer_secret = "LUqE9wdU8KummZh6DRdkS2HEaVL7uBxS2eFPwMeSFbbhfz9gxi"
-access_key = "74381237-NoD1lqLycundzFCcsoxEhoVGZR3K1fw9c8BmpaIug"
-access_secret = "tGV3lJG3BLAaJ4qInfgkdo9zpArMcrXdmcH1HeHRIuaHB"
+consumer_key = ""
+consumer_secret = ""
+access_key = ""
+access_secret = ""
 
 
 # MAX OF 3240
