@@ -1,0 +1,3 @@
+*.csv
+PP2 src/training_datasets/tweetsuMich/training1.txt
+PP2 src/training_datasets/tweetsuMich/testdata1_unclassified.txt
