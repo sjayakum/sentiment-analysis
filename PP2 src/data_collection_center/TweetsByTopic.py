@@ -3,8 +3,8 @@ from tweepy import OAuthHandler
 from tweepy import Stream
 
 # Twitter API credentials
-consumer_key = "b6JCMorNFh6FcUSe9sUvkrdfU"
-consumer_secret = "LUqE9wdU8KummZh6DRdkS2HEaVL7uBxS2eFPwMeSFbbhfz9gxi"
+consumer_key = ""
+consumer_secret = ""
 
 
 # After the step above, you will be redirected to your app's page.
