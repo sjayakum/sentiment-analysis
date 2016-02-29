@@ -36,5 +36,7 @@ Project Phase - 2 [PP2]
       - [University of Michigan Sentiment Analysis competition on Kaggle](https://inclass.kaggle.com/c/si650winter11)
       - [Twitter Sentiment Corpus by Niek Sanders](http://www.sananalytics.com/lab/twitter-sentiment/)
 
+* **Supervised Learning Model**
+* **Visualization Center**
 
 &copy; 2015-2016 Suraj Jayakumar under [MIT License](https://github.com/suraj-jayakumar/capstoneproject/blob/master/LICENSE.txt "Title") 
