@@ -1,5 +1,5 @@
-# Capstone Project '16
-**Sentiment Analysis of Big Data on Social and Political Events**
+# Sentiment Analysis of Big Data on Social and Political Events
+**Final Year Project'16 [B.E.] **
 
 Project Phase - 1 [PP1]
 ----------------------
