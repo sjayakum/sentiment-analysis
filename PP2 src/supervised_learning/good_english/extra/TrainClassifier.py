@@ -11,6 +11,7 @@ trainfeats =[]
 posfeats = []
 negfeats = []
 classifier = 0
+
 #every word before feeding in to NaiveBayes Classifier should be of this form
 def word_feats(words):
     """
