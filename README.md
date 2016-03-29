@@ -40,7 +40,7 @@ Project Phase - 2 [PP2]
       - Tweet Data Cleaning     
 * **Supervised Learning Model**
       - Tweets Classification
-            * Naive-Bayes Classifier
+            - Naive-Bayes Classifier
       - Article Classification
             * Naive-Bayes Classifier
             * Multinomial Baysian Classifier using Term Frequency - Inverse Document Frequency [TF-IDF]
