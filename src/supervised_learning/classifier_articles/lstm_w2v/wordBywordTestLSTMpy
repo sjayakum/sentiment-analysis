@@ -1,0 +1,26 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Mar 23 14:45:03 2016
+
+@author: suraj
+"""
+import numpy as np
+np.random.seed(1337)  # for reproducibility
+from keras.models import  model_from_json
+from gensim.models import Doc2Vec
+
+model2 = Doc2Vec.load_word2vec_format('full_corpus.vec')
+
+model = model_from_json(open('lstm_sa.json').read())
+model.load_weights('lstm_sa.h5')
+
+
+test_str = "this is a marvelous film"
+mytemp =np.reshape( np.sum( model2[test_str.split()],axis=0)/len(test_str.split()) ,(1,100))
+
+output = model.predict(np.array([mytemp]))
+
+if(output[0][0]>0.5):
+    print "Positive"
+else:
+    print "Negative"
