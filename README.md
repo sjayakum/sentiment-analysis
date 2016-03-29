@@ -39,13 +39,11 @@ Project Phase - 2 [PP2]
 * **Preprocessing**
       - Tweet Data Cleaning     
 * **Supervised Learning Model**
-      - Tweets Classification
-            - Naive-Bayes Classifier
-      - Article Classification
-            * Naive-Bayes Classifier
-            * Multinomial Baysian Classifier using Term Frequency - Inverse Document Frequency [TF-IDF]
-            * Long Short Term Memory [LSTM] with Word2Vector Model [word2vec]
-            * Long Short Term Memory [LSTM] with Document2Vector Model [doc2vec]
+      - **Naive-Bayes Classifier for Tweets**
+      - **Naive-Bayes Classifier for Articles**
+      - **Multinomial Baysian Classifier using Term Frequency - Inverse Document Frequency [TF-IDF]  for Articles**
+      - **Long Short Term Memory [LSTM] with Word2Vector Model [word2vec]  for Articles**
+      - **Long Short Term Memory [LSTM] with Document2Vector Model [doc2vec]  for Articles**
 * **Visualization Center**
       - Word Cloud Graph
       - Stacked Represenation of Postive and Negative Tweets
