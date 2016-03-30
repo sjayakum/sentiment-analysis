@@ -45,9 +45,9 @@ Project Phase - 2 [PP2]
       - [Long Short Term Memory [LSTM] with Word2Vector Model [word2vec]  for Articles](https://github.com/suraj-jayakumar/sentiment-analysis/blob/master/src/supervised_learning/classifier_articles/lstm_w2v)
       - [Long Short Term Memory [LSTM] with Document2Vector Model [doc2vec]  for Articles](https://github.com/suraj-jayakumar/sentiment-analysis/tree/master/src/supervised_learning/classifier_articles/lstm_d2v)
 * **Visualization Center**
-      - Word Cloud Graph(https://github.com/suraj-jayakumar/sentiment-analysis/blob/master/src/visualization/wordcloud.py)
-      - Stacked Represenation of Postive and Negative Tweets(https://github.com/suraj-jayakumar/sentiment-analysis/blob/master/src/visualization/bar_stacked.py)
-      - Location Bubble Graph
+      - [Word Cloud Graph](https://github.com/suraj-jayakumar/sentiment-analysis/blob/master/src/visualization/wordcloud.py)
+      - [Stacked Represenation of Postive and Negative Tweets](https://github.com/suraj-jayakumar/sentiment-analysis/blob/master/src/visualization/bar_stacked.py)
+      - [Location Bubble Graph]()
 
 
 &copy; 2015-2016 Suraj Jayakumar under [MIT License](https://github.com/suraj-jayakumar/capstoneproject/blob/master/LICENSE.txt "Title") 
